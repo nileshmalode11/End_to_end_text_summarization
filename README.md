@@ -25,9 +25,11 @@ pip install -r requirements.txt
 ## Finally run the following command
 
 python app.py
+
 Now,
 
 open up you local host and port
+
 
 Author: Nilesh Malode
 
