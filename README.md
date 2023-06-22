@@ -22,7 +22,8 @@ venv/scripts/activate
 ## STEP 02- install the requirements
 pip install -r requirements.txt
 
-##Finally run the following command
+## Finally run the following command
+
 python app.py
 Now,
 
